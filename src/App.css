@@ -1,38 +1,142 @@
-.App {
-  text-align: center;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.ota{
+
+    height: 70px;
+    display: flex;
+    gap: 230px;
+    
+}
+.home{
+    display: flex;
+    gap: 20px;
+    transform: translate(10px, 23px );
+    padding-left: 80px
+}
+.need{
+    transform: translate(50px, 5px);
+}
+.hjj{
+    text-align: center;
+    width: 75px;
+    height: 27px;
+    background-color:  #83CD20;
+color: white;
+    border-radius: 50px;
+}
+.routex{
+transform: translate(50px,14px );
+}
+h3{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 26px;
+    color:#034833;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.ona{
+    max-width: 100%;
+    height: 600px;
+    background: url(./image/Frame\ 8365.png)  no-repeat center center / cover;
+    background-color: #034833;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.with{
+transform: translate(0, 180px);
+margin-right: 15px;
+}
+.migrate{
+    display: flex;
+    gap: 5px;
+  padding-left: 580px;
+  font-size: 45px;
+  transform: translate(-150px);
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.sss{
+    color: #83CD20;
+}
+.span{
+    margin-left: 440px;
+    width: 430px;
+    font-size: 15px;
+    font-weight: 400;
+    transform: translate(13px, 20px);
+    color: white;
+    text-align: center;
+}
+.nnn{
+    padding-left: 350px;
+}
+.our{
+    font-size: 60px;
+    color: white;
+}
+.more{
+    font-size: 15px;
+    transform: translate(0px, 15px);
+    color: white;
+}
+.duis{
+ text-align: center;
+    width: 150px;
+    height:50px ;
+    background-color: #83CD20;
+    transform: translate(590px, 50px);
+    border-radius: 30px;
+}
+.app{
+transform: translate(5px,3px);
+}
+.css{
+    padding-top: 100px;
+    padding-left: 70px;
+display: flex;
+gap: 70px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.imggg{
+    padding-top: 100px;
 }
+.zz1{
+    display: flex;
+    gap: 15px;
+    color: #034833;
+}
+input{
+    width: 14px;
+    height: 16px;
+    transform: translate(0,5px);
+}
+
+.zz1 h1{
+    font-size: 22px;
+}
+.zzzz{
+    display: flex;
+    gap: 170px;
+    padding-top: 30px;
+}
+.yyy{
+    width: 250px;
+    height: 60px;
+    padding-top: 20px;
+    opacity: 60%;
+    font-size: 16px;
+}
+.mmmmm{
+    display: flex;
+    gap: 60px;
+}
+.duim{
+    text-align: center;
+    width: 150px;
+    height:50px ;
+    background-color: #83CD20;
+    transform: translate(0, 30px);
+    border-radius: 30px;
+} 
+
